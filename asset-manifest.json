@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/gmc_deployed/static/css/main.ee42a538.chunk.css",
+    "main.js": "/gmc_deployed/static/js/main.f52a2f8e.chunk.js",
+    "main.js.map": "/gmc_deployed/static/js/main.f52a2f8e.chunk.js.map",
+    "runtime-main.js": "/gmc_deployed/static/js/runtime-main.7190a16b.js",
+    "runtime-main.js.map": "/gmc_deployed/static/js/runtime-main.7190a16b.js.map",
+    "static/css/2.3288b564.chunk.css": "/gmc_deployed/static/css/2.3288b564.chunk.css",
+    "static/js/2.4323e0a7.chunk.js": "/gmc_deployed/static/js/2.4323e0a7.chunk.js",
+    "static/js/2.4323e0a7.chunk.js.map": "/gmc_deployed/static/js/2.4323e0a7.chunk.js.map",
+    "static/js/3.412fb06e.chunk.js": "/gmc_deployed/static/js/3.412fb06e.chunk.js",
+    "static/js/3.412fb06e.chunk.js.map": "/gmc_deployed/static/js/3.412fb06e.chunk.js.map",
+    "index.html": "/gmc_deployed/index.html",
+    "static/css/2.3288b564.chunk.css.map": "/gmc_deployed/static/css/2.3288b564.chunk.css.map",
+    "static/css/main.ee42a538.chunk.css.map": "/gmc_deployed/static/css/main.ee42a538.chunk.css.map",
+    "static/js/2.4323e0a7.chunk.js.LICENSE.txt": "/gmc_deployed/static/js/2.4323e0a7.chunk.js.LICENSE.txt",
+    "static/media/1.7d310143.png": "/gmc_deployed/static/media/1.7d310143.png",
+    "static/media/2.97508d1a.png": "/gmc_deployed/static/media/2.97508d1a.png",
+    "static/media/3.eacc2853.png": "/gmc_deployed/static/media/3.eacc2853.png",
+    "static/media/4.067aa1ca.png": "/gmc_deployed/static/media/4.067aa1ca.png",
+    "static/media/5.15908efd.png": "/gmc_deployed/static/media/5.15908efd.png",
+    "static/media/6.2baa6148.png": "/gmc_deployed/static/media/6.2baa6148.png",
+    "static/media/co4.cc2cc80a.png": "/gmc_deployed/static/media/co4.cc2cc80a.png",
+    "static/media/co5.72b12bb7.png": "/gmc_deployed/static/media/co5.72b12bb7.png",
+    "static/media/p1.277c4fd5.jpg": "/gmc_deployed/static/media/p1.277c4fd5.jpg",
+    "static/media/p2.c3ae001d.jpg": "/gmc_deployed/static/media/p2.c3ae001d.jpg",
+    "static/media/p3.9a37c927.jpg": "/gmc_deployed/static/media/p3.9a37c927.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7190a16b.js",
+    "static/css/2.3288b564.chunk.css",
+    "static/js/2.4323e0a7.chunk.js",
+    "static/css/main.ee42a538.chunk.css",
+    "static/js/main.f52a2f8e.chunk.js"
+  ]
+}
