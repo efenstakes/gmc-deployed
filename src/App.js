@@ -28,6 +28,9 @@ function App() {
 
         <Switch>
 
+          {/* home */}
+          <Route path="/" component={HomePage} />
+
           {/* challenges */}
           <Route exact path="/challenges"
             component={ChallengesPage}
@@ -43,10 +46,6 @@ function App() {
             component={AboutPage} 
           />
 
-          {/* home */}
-          <Route path="/"
-            component={HomePage}
-          />
 
         </Switch>
       </Router>
